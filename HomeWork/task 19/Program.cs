@@ -2,8 +2,7 @@
 //  является ли оно палиндромом. Через строку решать нельзя.
 Console.WriteLine("введите число ");
 int n = Convert.ToInt32(Console.ReadLine());
-int n1 = n;
-int n2 = n;
+int n1 = n; int n2 = n;
 int m = 0;
 while (n > 0)
 {
